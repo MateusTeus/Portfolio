@@ -1,3 +1,3 @@
 [build]
-command = "npm run build"
-publish = "dist" # ou o diretório onde os arquivos de construção estão localizados
+command = "vite build"
+publish = "dist"
